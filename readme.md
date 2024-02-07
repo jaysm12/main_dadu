@@ -2,6 +2,8 @@
 
 Golang algorithm practice for test purposes.
 
+Rule :
+
 Buatlah sebuah script permainan dadu yang menerima input N jumlah pemain dan M jumlah
 dadu, dengan peraturan sebagai berikut:
 1. Pada awal permainan, setiap pemain mendapatkan dadu sejumlah M unit.
